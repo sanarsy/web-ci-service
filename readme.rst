@@ -1,4 +1,33 @@
 ###################
+Web Service System
+###################
+  Aplikasi Service System untuk melakukan monitoring perawatan dan layanan service system peralatan it yang ada di perusahaan. Service System adalah aplikasi berbasis web yang menggunakan bahasa pemrograman PHP dengan framework Codeigniter 3.1.6. Menggunakan template AdminLTE 2.3.11 untuk tampilan yang lebih rapi.
+
+************************
+Cara penggunaan aplikasi
+************************
+-  Download aplikasi
+-  Letakkan pada folder web server anda
+-  Buat database dan import file invenitri_database.sql
+-  Sesuaikan data koneksi database pada file config/database.php
+-  Sesuaikan pengaturan dasar aplikasi pada file config/site.php
+-  Akses aplikasi via browser
+
+************
+Akses Login 
+************
+- email : manager dengan password : manager12345
+- email : admin   dengan password : admin12345
+- email : user    dengan password : user12345
+
+*****************
+Catatan tambahan
+*****************
+Aplikasi ini masih dalam proses pengembangan, fitur saat ini mencakup inventorisasi data dan service system dengan berbagai data master terkait. Pembuatan laporan masih dalam pengembangan.
+
+
+
+###################
 What is CodeIgniter
 ###################
 
